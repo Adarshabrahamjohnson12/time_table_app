@@ -1,0 +1,17 @@
+name: class_timetable_app
+description: A Flutter class timetable app
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/timetable_4th_year.json

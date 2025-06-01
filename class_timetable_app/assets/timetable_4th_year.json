@@ -1,0 +1,7 @@
+{
+  "Monday": ["9:00 - AI", "10:00 - CGIP", "11:30 - DS Lab"],
+  "Tuesday": ["9:00 - ML", "10:00 - Seminar", "11:30 - CGIP"],
+  "Wednesday": ["9:00 - Project", "10:00 - AI"],
+  "Thursday": ["9:00 - DS", "10:00 - AI", "11:30 - ML"],
+  "Friday": ["9:00 - Free", "10:00 - CGIP", "11:30 - DS Lab"]
+}
